@@ -97,7 +97,6 @@
 
   public class RequestIdMiddleware
   {
-      private readonly RequestDelegate _next;
       private readonly ILogger<RequestIdMiddleware> _logger;
   
       public RequestIdMiddleware(RequestDelegate next, IRequestId requestId, ILogger<RequestIdMiddleware> logger)
