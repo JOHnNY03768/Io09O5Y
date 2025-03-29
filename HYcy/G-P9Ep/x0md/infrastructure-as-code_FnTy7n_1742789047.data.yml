@@ -4,7 +4,6 @@ run:
   tests: true
   go: "1.23"
 output:
-  formats:
     - format: colored-line-number
   print-issued-lines: true
   print-linter-name: true
