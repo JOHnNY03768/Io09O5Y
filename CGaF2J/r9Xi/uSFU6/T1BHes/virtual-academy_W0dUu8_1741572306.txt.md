@@ -17,7 +17,6 @@
 -  In the file, create an interface `IRequestIdFactory` with a single method `string MakeRequestId()`
 -  In the same file, create a class `RequestIdFactory` that implements `IRequestIdFactory` by using `Interlock.Increment` to make an increasing request ID
 -  The file should look something like this:
-
   ``` C#
   public interface IRequestIdFactory
   {
