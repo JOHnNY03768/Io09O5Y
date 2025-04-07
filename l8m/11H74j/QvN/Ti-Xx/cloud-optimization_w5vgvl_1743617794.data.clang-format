@@ -19,7 +19,6 @@ AllowShortBlocksOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Inline
 
 AlwaysBreakAfterReturnType: TopLevelDefinitions
-AlignAfterOpenBracket: AlwaysBreak
 BreakBeforeBraces: Custom
 BraceWrapping:
   AfterClass: false
