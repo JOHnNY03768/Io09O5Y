@@ -1,7 +1,0 @@
-app/db/SQL
-node_modules
-storage
-.idea
-.cd .babelrc
-.DS_Store
-debug
